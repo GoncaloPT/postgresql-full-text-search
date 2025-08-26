@@ -1,0 +1,11 @@
+pt/goncalo/poc/postgresfulltext/Demos$InfoDemoRun.class
+pt/goncalo/poc/postgresfulltext/Demos$FullTextNativeQuery.class
+pt/goncalo/poc/postgresfulltext/Demos.class
+pt/goncalo/poc/postgresfulltext/Demos$UsingLike.class
+pt/goncalo/poc/postgresfulltext/Demos$FullTextDemoRunSpringData.class
+pt/goncalo/poc/postgresfulltext/PostgresfulltextApplication.class
+pt/goncalo/poc/postgresfulltext/Demos$DemoRunBenchmark.class
+pt/goncalo/poc/postgresfulltext/Demos$DemoRun.class
+pt/goncalo/poc/postgresfulltext/FullTextSearchAwarePostgreSQLDialect.class
+pt/goncalo/poc/postgresfulltext/topic/TopicRepository.class
+pt/goncalo/poc/postgresfulltext/topic/Topic.class
